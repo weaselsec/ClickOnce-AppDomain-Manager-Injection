@@ -1,5 +1,5 @@
-# Click-Once-App-Domain
-Click Once + App Domain
+# Click-Once + App-Domain Injection 
+Click Once + App Domain Injection
 
 csc.exe /t:library /keyfile:key.snk /out:uevmonitor.dll uevmonitor.cs amsi.cs
 
