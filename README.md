@@ -1,6 +1,8 @@
 # Click-Once + App-Domain Injection 
 Click Once + App Domain Injection
 
+Based on https://github.com/Mr-Un1k0d3r/.NetConfigLoader
+
 csc.exe /t:library /keyfile:key.snk /out:uevmonitor.dll uevmonitor.cs amsi.cs
 
 [System.Reflection.AssemblyName]::GetAssemblyName("uevmonitor.dll").FullName            
