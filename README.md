@@ -1,5 +1,5 @@
-# Click-Once + App-Domain Injection 
-Click Once + App Domain Injection
+# ClickOnce + App-Domain Injection 
+ClickOnce + App Domain Injection
 
 Based on https://github.com/Mr-Un1k0d3r/.NetConfigLoader
 
@@ -37,7 +37,7 @@ Sign and save the deployment manifest:
 
 ![image](https://github.com/weaselsec/Click-Once-App-Domain/assets/147257425/faeaf363-9553-4104-ad9e-0378fb9bf9c7)
 
-Launch and execute to bypass Smart Screen:
+Launch the ClickOnce application to bypass Smart Screen:
 
 ![image](https://github.com/weaselsec/Click-Once-App-Domain/assets/147257425/3b903b58-2314-4e0f-9c3f-5a1a5d9aaee9)
 
