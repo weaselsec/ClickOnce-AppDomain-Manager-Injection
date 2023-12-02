@@ -1,5 +1,5 @@
-# ClickOnce + App-Domain Injection 
-ClickOnce + App Domain Injection
+# ClickOnce + AppDomain Injection 
+ClickOnce + AppDomain Injection
 
 Based on https://github.com/Mr-Un1k0d3r/.NetConfigLoader
 
