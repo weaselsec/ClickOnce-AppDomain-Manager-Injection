@@ -5,7 +5,7 @@ Based on https://github.com/Mr-Un1k0d3r/.NetConfigLoader
 
 csc.exe /t:library /keyfile:key.snk /out:uevmonitor.dll uevmonitor.cs amsi.cs
 
-[System.Reflection.AssemblyName]::GetAssemblyName("uevmonitor.dll").FullName            
+"[System.Reflection.AssemblyName]::GetAssemblyName("uevmonitor.dll").FullName"            
 
 uevmonitor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=1bb626af4620f3e6
 
